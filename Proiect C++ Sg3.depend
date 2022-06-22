@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1654862344 source:c:\scoala\codeblocks\proiect c++ sg3\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<ctime>
+
